@@ -80,9 +80,9 @@
 - Process & style
   - compiler: 🙋 explained
   - transpiler: 🙋 explained
-  - linter: 🙋 explained
+  - linter: 🔬 researched
   - polyfill: 🙋 explained
-  - debugger: 🙋 explained
+  - debugger: 🔬 researched
   - garbage collection: 🙋 explained
   - refactoring: 🔬 researched
   - code review: 🔬 researched

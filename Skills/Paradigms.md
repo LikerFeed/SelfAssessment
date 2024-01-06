@@ -25,18 +25,18 @@
   - new: 🖐 used
   - Static method: 🖐 used
   - Method: 🙋 explained
-  - Async method: 🎓 known
+  - Async method: 🖐 used
   - Getters, Setters: 🙋 explained
   - Public fields: 🖐 used
   - Private fields: 🖐 used
   - Field declarations: 🖐 used
   - Inheritance: 🎓 known
-  - Parent class: 🎓 known
+  - Parent class: 🖐 used
   - Polymorphism: 🖐 used
-  - Abstract class: 🎓 known
+  - Abstract class: 🖐 used
   - Interface: 🖐 used
   - Encapsulation: 🖐 used
-  - Hidden class: 🎓 known
+  - Hidden class: 🙋 explained
   - Object form: 🎓 known
   - instance: 🖐 used
   - Introspection: 🎓 known

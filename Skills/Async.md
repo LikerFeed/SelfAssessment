@@ -2,9 +2,9 @@
 
 - Theory
   - Event loop: 🔬 researched
-  - try..catch: 🖐 used
-  - Non-blocking: 🎓 known
-  - Async I/O: 🎓 known
+  - try..catch: 🙋 explained
+  - Non-blocking: 🙋 explained
+  - Async I/O: 🙋 explained
   - Thread pool: 👂 heard
   - Pattern Reactor: 👂 heard
   - CAS operations: 👂 heard
@@ -12,7 +12,7 @@
   - kqueue: 🎓 known
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
-  - libuv: 🖐 used
+  - libuv: 🙋 explained
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
@@ -23,19 +23,19 @@
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🙋 explained
-  - Callback-last-error-first: 🎓 known
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 👂 heard
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
   - Future: 🙋 explained
   - Deferred: 👂 heard
   - Sync generator: 🙋 explained
-  - Async Generator: 🎓 known
-  - Async Iterator: 👂 heard
+  - Async Generator: 🖐 used
+  - Async Iterator: 🎓 known
   - Event: 🙋 explained
   - Coroutine: 🎓 known
   - Goroutine: 👂 heard
-  - Signal: 👂 heard
+  - Signal: 🎓 known
   - Stream: 🎓 known
   - Chain of responsibility: 👂 heard
   - Middleware: 🙋 explained
@@ -52,7 +52,7 @@
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
-  - Async Pool: 👂 heard
+  - Async Pool: 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 👂 heard
   - Semaphore: 👂 heard
@@ -60,9 +60,9 @@
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers: 🎓 known
-  - setImmediate: 👂 heard
+  - setImmediate: 🎓 known
   - nextTick: 🎓 known
-  - AbortController: 👂 heard
+  - AbortController: 🎓 known
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🎓 known
   - Promise double resolve: 🎓 known
@@ -73,7 +73,7 @@
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
-  - Error handling in async code: 👂 heard
+  - Error handling in async code: 🖐 used
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
   - promisify: 👂 heard
@@ -85,8 +85,8 @@
   - RxJS library: 👂 heard
   - Async composition: 👂 heard
   - Promise.all: 🎓 known
-  - Promise.allSettled: 👂 heard
-  - Promise.race: 👂 heard
+  - Promise.allSettled: 🎓 known
+  - Promise.race: 🎓 known
   - Promise.any: 🎓 known
   - Web Locks API: 👂 heard
   - IPC: 👂 heard

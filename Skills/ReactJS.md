@@ -1,29 +1,29 @@
 ## React
 
 - Main concepts
-  - JSX: 🙋 explained
-  - Virtual DOM: 🙋 explained
-  - Functional component: 🖐 used
-  - Class component: 🖐 used
+  - JSX: 🔬 researched
+  - Virtual DOM: 🔬 researched
+  - Functional component: 🙋 explained
+  - Class component: 🙋 explained
   - Dumb component: 🖐 used
   - Smart component: 🖐 used
   - Rendering a component: 🖐 used
   - Props: 🙋 explained
   - State: 🙋 explained
-  - Composing components: 👂 heard
-  - Extracting components: 👂 heard
-  - Lifecycle components: 👂 heard
-  - Conditional rendering: 👂 heard
+  - Composing components: 🎓 known
+  - Extracting components: 🎓 known
+  - Lifecycle components: 🎓 known
+  - Conditional rendering: 🎓 known
   - The Data Flows Down: 👂 heard
   - Handling Events: 👂 heard
-  - Prevent from Rendering: 👂 heard
-  - Multiple Rendering: 👂 heard
+  - Prevent from Rendering: 🎓 known
+  - Multiple Rendering: 🎓 known
   - Controlled Components: 🖐 used
   - Lifting State Up: : 🖐 used
   - Composition vs Inheritance:👂 heard
   - Code-Splitting: 👂 heard
   - Bundling: 🖐 used
-  - React.lazy: 🖐 used
+  - React.lazy: 🙋 explained
   - Suspense and fallbacks: 👂 heard
   - Named Exports: 🖐 used
   - React Context: 🖐 used
@@ -40,14 +40,14 @@
   - Strict Mode: : 🖐 used
   - Uncontrolled Components: 🎓 known
 - Hooks
-  - useState: 🖐 used
-  - useEffect: 🖐 used
-  - useReducer: 🎓 known
-  - useContext: 👂 heard
-  - useRef: 👂 heard
-  - useCallback: 👂 heard
-  - useMemo: 👂 heard
-  - Custom Hooks: 👂 heard
+  - useState: 🙋 explained
+  - useEffect: 🙋 explained
+  - useReducer: 🖐 used
+  - useContext: 🎓 known
+  - useRef: 🎓 known
+  - useCallback: 🎓 known
+  - useMemo: 🎓 known
+  - Custom Hooks: 🎓 known
 - Antipatterns
   - Props drilling: 🎓 known
   - Props Plowing: 🎓 known
@@ -61,18 +61,18 @@
   - Async functions in useEffect: 🎓 known
   - Multiple useState hooks: 🎓 known
 - Environment
-  - React Router: 🖐 used
-  - React Redux: 🖐 used
-  - React Dom: 🖐 used
-  - Redux Thunk: 🖐 used
+  - React Router: 🙋 explained
+  - React Redux: 🙋 explained
+  - React Dom: 🙋 explained
+  - Redux Thunk: 🙋 explained
   - Redux Final Form: 🎓 known
   - Formik: 🖐 used
   - Babel: 🖐 used
-  - Sass: 🖐 used
+  - Sass: 🙋 explained
   - Webpack: 🎓 known
-  - Hook form: 👂 heard
-  - React DevTools: 🖐 used
-  - Redux DevTools: 🎓 known
+  - Hook form: 🎓 known
+  - React DevTools: 🙋 explained
+  - Redux DevTools: 🙋 explained
   - Jest: 🙋 explained
   - React Testing Library: 🙋 explained
-  - Reselect: 👂 heard
+  - Reselect: 🎓 known

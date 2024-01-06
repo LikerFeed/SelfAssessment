@@ -4,7 +4,7 @@
   - Object: 🙋 explained
   - this: 🖐️ used
   - arrow function: 🔬 researched
-  - async function: 🙋 explained
+  - async function: 🔬 researched
   - call: 🖐️ used
   - bind: 🖐️ used
   - apply: 🖐️ used
@@ -15,8 +15,8 @@
   - destructuring: 🙋 explained
   - generator: 🚀 constructed
   - iterator: 🖐️ used
-  - async generator: 🎓 known
-  - async iterator: 👂 heard
+  - async generator: 🖐️ used
+  - async iterator: 🎓 known
   - chaining: 🚀 constructed
   - optional chaining: 🙋 explained
   - IIFE: 🎓 known
@@ -49,12 +49,12 @@
   - for..of: 🙋 explained
   - for await: 🙋 explained
   - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
+  - break: 🙋 explained
+  - continue: 🙋 explained
   - import: 🖐️ used
   - export: 🖐️ used
   - label: 🎓 known
-  - try..catch: 🖐 used
+  - try..catch: 🙋 explained
   - switch: 🙋 explained
   - class: 🙋 explained
   - new Error: 🙋 explained
@@ -84,7 +84,7 @@
   - BigInt: 🎓 known
 - Infrastructure
   - V8: 🙋 explained
-  - Node.js: 🙋 explained
-  - npm: 🖐 used
+  - Node.js: 🔬 researched
+  - npm: 🔬 researched
   - prettier: 🔬 researched
   - MDN: 🖐 used
