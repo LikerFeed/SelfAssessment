@@ -8,6 +8,11 @@
 - [Node.js and Backend](Skills/NodeJS.md)
 - [Multi-paradigm programming](Skills/Paradigms.md)
 
+### Additionally
+
+- [React](Skills/ReactJS.md)
+- [SQL](Skills/SQL.md)
+
 ## How to use
 
 - Fork repository
