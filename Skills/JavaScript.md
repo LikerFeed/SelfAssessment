@@ -54,37 +54,36 @@
   - import: 🖐️ used
   - export: 🖐️ used
   - label: 🎓 known
-  - try..catch: 🖐 used
+  - try..catch: 🖐: 🖐️ used
   - switch: 🙋 explained
   - class: 🙋 explained
   - new Error: 🙋 explained
   - with: 👂 heard
 - Functions
-  - function declaration: 🖐 used
-  - function expression: 🖐 used
-  - return: 🖐 used
-  - default parameters: 🖐 used
+  - function declaration: 🖐: 🖐️ used
+  - function expression: 🖐: 🖐️ used
+  - return: 🖐: 🖐️ used
+  - default parameters: 🖐: 🖐️ used
   - functional object: 🎓 known
 - Data structures
-  - Array: 🖐 used
+  - Array: 🖐: 🖐️ used
   - mixin: 🙋 explained
-  - extend: 🖐 used
-  - typed arrays: 🖐 used
+  - extend: 🖐: 🖐️ used
+  - typed arrays: 🖐: 🖐️ used
   - Set: 🙋 explained
   - Map: 🔬 researched
-  - Set: 🔬 researched
-  - undefined: 🖐 used
-  - null: 🖐 used
-  - Proxy: 🖐 used
-  - weak collections: 🖐 used
-  - timers:  🎓 known
+  - undefined: 🖐: 🖐️ used
+  - null: 🖐: 🖐️ used
+  - Proxy: 🖐: 🖐️ used
+  - weak collections: 🖐: 🖐️ used
+  - timers: 🎓 known
   - EventEmitter: 🙋 explained
   - RegExp: 🙋 explained
-  - Date: 🖐 used
+  - Date: 🖐: 🖐️ used
   - BigInt: 🎓 known
 - Infrastructure
   - V8: 🙋 explained
   - Node.js: 🙋 explained
-  - npm: 🖐 used
+  - npm: 🖐: 🖐️ used
   - prettier: 🔬 researched
-  - MDN: 🖐 used
+  - MDN: 🖐: 🖐️ used

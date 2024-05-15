@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop: 🔬 researched
-  - try..catch: 🖐 used
+  - try..catch: 🖐: 🖐️ used
   - Non-blocking: 🎓 known
   - Async I/O: 🎓 known
   - Thread pool: 👂 heard
@@ -12,14 +12,14 @@
   - kqueue: 🎓 known
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
-  - libuv: 🖐 used
+  - libuv: 🖐: 🖐️ used
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
   - Concurrent programming: 🎓 known
   - Parallel programming: 🙋 explained
   - Actor Model: 👂 heard
-  - Thread: 🖐 used
+  - Thread: 🖐: 🖐️ used
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🙋 explained
@@ -48,7 +48,7 @@
   - async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🙋 explained
-  - Observable/Observer: 🖐 used
+  - Observable/Observer: 🖐: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
@@ -76,8 +76,6 @@
   - Error handling in async code: 👂 heard
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
 - Techniques
@@ -92,4 +90,3 @@
   - IPC: 👂 heard
   - Channel API: 👂 heard
   - Revealing Constructor: 👂 heard
-  - Web Locks API: 👂 heard

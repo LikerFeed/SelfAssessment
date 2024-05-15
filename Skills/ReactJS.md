@@ -3,11 +3,11 @@
 - Main concepts
   - JSX: 🙋 explained
   - Virtual DOM: 🙋 explained
-  - Functional component: 🖐 used
-  - Class component: 🖐 used
-  - Dumb component: 🖐 used
-  - Smart component: 🖐 used
-  - Rendering a component: 🖐 used
+  - Functional component: 🖐: 🖐️ used
+  - Class component: 🖐: 🖐️ used
+  - Dumb component: 🖐: 🖐️ used
+  - Smart component: 🖐: 🖐️ used
+  - Rendering a component: 🖐: 🖐️ used
   - Props: 🙋 explained
   - State: 🙋 explained
   - Composing components: 👂 heard
@@ -18,30 +18,30 @@
   - Handling Events: 👂 heard
   - Prevent from Rendering: 👂 heard
   - Multiple Rendering: 👂 heard
-  - Controlled Components: 🖐 used
-  - Lifting State Up: : 🖐 used
-  - Composition vs Inheritance:👂 heard
+  - Controlled Components: 🖐: 🖐️ used
+  - Lifting State Up: : 🖐: 🖐️ used
+  - Composition vs Inheritance: 👂 heard
   - Code-Splitting: 👂 heard
-  - Bundling: 🖐 used
-  - React.lazy: 🖐 used
+  - Bundling: 🖐: 🖐️ used
+  - React.lazy: 🖐: 🖐️ used
   - Suspense and fallbacks: 👂 heard
-  - Named Exports: 🖐 used
-  - React Context: 🖐 used
-  - Context.Provider: 🖐 used
-  - Context.Consumer: 🖐 used
-  - Error Boundaries: 🖐 used
-  - Refs: 🖐 used
+  - Named Exports: 🖐: 🖐️ used
+  - React Context: 🖐: 🖐️ used
+  - Context.Provider: 🖐: 🖐️ used
+  - Context.Consumer: 🖐: 🖐️ used
+  - Error Boundaries: 🖐: 🖐️ used
+  - Refs: 🖐: 🖐️ used
   - Forwarding refs: 👂 heard
-  - Fragments: 🖐 used
-  - Higher-Order Components: 🖐 used
+  - Fragments: 🖐: 🖐️ used
+  - Higher-Order Components: 🖐: 🖐️ used
   - Portals: 🎓 known
   - Profiler: 🎓 known
-  - Render Props: 🖐 used
-  - Strict Mode: : 🖐 used
+  - Render Props: 🖐: 🖐️ used
+  - Strict Mode: : 🖐: 🖐️ used
   - Uncontrolled Components: 🎓 known
 - Hooks
-  - useState: 🖐 used
-  - useEffect: 🖐 used
+  - useState: 🖐: 🖐️ used
+  - useEffect: 🖐: 🖐️ used
   - useReducer: 🎓 known
   - useContext: 👂 heard
   - useRef: 👂 heard
@@ -61,17 +61,17 @@
   - Async functions in useEffect: 🎓 known
   - Multiple useState hooks: 🎓 known
 - Environment
-  - React Router: 🖐 used
-  - React Redux: 🖐 used
-  - React Dom: 🖐 used
-  - Redux Thunk: 🖐 used
+  - React Router: 🖐: 🖐️ used
+  - React Redux: 🖐: 🖐️ used
+  - React Dom: 🖐: 🖐️ used
+  - Redux Thunk: 🖐: 🖐️ used
   - Redux Final Form: 🎓 known
-  - Formik: 🖐 used
-  - Babel: 🖐 used
-  - Sass: 🖐 used
+  - Formik: 🖐: 🖐️ used
+  - Babel: 🖐: 🖐️ used
+  - Sass: 🖐: 🖐️ used
   - Webpack: 🎓 known
   - Hook form: 👂 heard
-  - React DevTools: 🖐 used
+  - React DevTools: 🖐: 🖐️ used
   - Redux DevTools: 🎓 known
   - Jest: 🙋 explained
   - React Testing Library: 🙋 explained

@@ -14,7 +14,7 @@
   - Asyncronous programming: 🙋 explained
   - Parallel programming: 🎓 known
   - Reactive programming: 🎓 known
-  - FRP (Functional-reactive):👂 heard
+  - FRP (Functional-reactive): 👂 heard
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 🙋 explained
   - Multi-paradigm programming: 🙋 explained
@@ -22,37 +22,37 @@
   - Actor model: 👂 heard
 - OOP basics
   - constructor: 🙋 explained
-  - new: 🖐 used
-  - Static method: 🖐 used
+  - new: 🖐: 🖐️ used
+  - Static method: 🖐: 🖐️ used
   - Method: 🙋 explained
   - Async method: 🎓 known
   - Getters, Setters: 🙋 explained
-  - Public fields: 🖐 used
-  - Private fields: 🖐 used
-  - Field declarations: 🖐 used
+  - Public fields: 🖐: 🖐️ used
+  - Private fields: 🖐: 🖐️ used
+  - Field declarations: 🖐: 🖐️ used
   - Inheritance: 🎓 known
   - Parent class: 🎓 known
-  - Polymorphism: 🖐 used
+  - Polymorphism: 🖐: 🖐️ used
   - Abstract class: 🎓 known
-  - Interface: 🖐 used
-  - Encapsulation: 🖐 used
+  - Interface: 🖐: 🖐️ used
+  - Encapsulation: 🖐: 🖐️ used
   - Hidden class: 🎓 known
   - Object form: 🎓 known
-  - instance: 🖐 used
+  - instance: 🖐: 🖐️ used
   - Introspection: 🎓 known
   - Reflection: 🎓 known
 - Patterns
   - Singleton: 🚀 constructed
-  - Factory Method: 🖐 used
+  - Factory Method: 🖐: 🖐️ used
   - Abstract Factory: 👂 heard
-  - Adapter: 🖐 used
-  - Observer: 🖐 used
+  - Adapter: 🖐: 🖐️ used
+  - Observer: 🖐: 🖐️ used
   - Strategy: 🎓 known
   - Facade: 🎓 known
   - Proxy: 🎓 known
   - Chain of Responsibility: 🎓 known
-  - Command: 🖐 used
-  - Iterator: 🖐 used
+  - Command: 🖐: 🖐️ used
+  - Iterator: 🖐: 🖐️ used
   - State: 🎓 known
   - Bridge: 👂 heard
   - Builder: 👂 heard

@@ -65,7 +65,6 @@
   - Multilayer approach: 🎓 known
   - Separation of concerns: 🎓 known
   - Inversion of control: 👂 heard
-  - Dependency injection: 👂 heard
   - GRASP: 👂 heard
   - SOLID: 👂 heard
   - GoF patterns: 👂 heard
@@ -116,8 +115,8 @@
   - Native test runner: 👂 heard
   - Logging: 🎓 known
   - Application configuring: 🎓 known
-  - Testing: 🖐 used
-  - CI/CD: 🖐 used
+  - Testing: 🖐: 🖐️ used
+  - CI/CD: 🖐: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
@@ -145,11 +144,11 @@
   - Error.captureStackTrace: 👂 heard
   - Uncaught exceptions: 🎓 known
   - Heap dump: 🎓 known
-  - Debugging tools: 🖐 used
+  - Debugging tools: 🖐: 🖐️ used
   - Flame graph: 👂 heard
   - Memory leaks: 👂 heard
   - Resource leaks: 👂 heard
-  - Data race 👂 heard
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons: 👂 heard
   - C and C++ addons: 👂 heard
@@ -166,5 +165,4 @@
   - Webassembly Zig: 👂 heard
   - Webassembly AssemblyScript: 👂 heard
   - Shared memory: 👂 heard
-  - SharedArrayBuffer: 👂 heard
   - V8 binary serialization: 👂 heard

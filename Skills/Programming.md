@@ -90,7 +90,6 @@
   - enum: 🙋 explained
   - instance: 🙋 explained
   - object: 🙋 explained
-  - class: 🙋 explained
   - collection: 🙋 explained
   - set: 🙋 explained
   - hash table: 🙋 explained
