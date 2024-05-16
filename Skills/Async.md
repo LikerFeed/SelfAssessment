@@ -2,9 +2,9 @@
 
 - Theory
   - Event loop: 🔬 researched
-  - `try..catch`: 🖐 used
-  - Non-blocking: 🎓 known
-  - Async I/O: 🎓 known
+  - try..catch: 🙋 explained
+  - Non-blocking: 🙋 explained
+  - Async I/O: 🙋 explained
   - Thread pool: 👂 heard
   - Pattern Reactor: 👂 heard
   - CAS operations: 👂 heard
@@ -12,30 +12,30 @@
   - kqueue: 🎓 known
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
-  - libuv: 🖐 used
+  - libuv: 🙋 explained
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
   - Concurrent programming: 🎓 known
   - Parallel programming: 🙋 explained
   - Actor Model: 👂 heard
-  - Thread: 🖐 used
+  - Thread: 🖐: 🖐️ used
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🙋 explained
-  - Callback-last-error-first: 🎓 known
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 👂 heard
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
   - Future: 🙋 explained
   - Deferred: 👂 heard
   - Sync generator: 🙋 explained
-  - Async Generator: 🎓 known
-  - Async Iterator: 👂 heard
+  - Async Generator: 🖐: 🖐️ used
+  - Async Iterator: 🎓 known
   - Event: 🙋 explained
   - Coroutine: 🎓 known
   - Goroutine: 👂 heard
-  - Signal: 👂 heard
+  - Signal: 🎓 known
   - Stream: 🎓 known
   - Chain of responsibility: 👂 heard
   - Middleware: 🙋 explained
@@ -48,11 +48,11 @@
   - Async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🙋 explained
-  - Observable/Observer: 🖐 used
+  - Observable/Observer: 🖐: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
-  - Async Pool: 👂 heard
+  - Async Pool: 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 👂 heard
   - Semaphore: 👂 heard
@@ -60,9 +60,9 @@
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers: 🎓 known
-  - `setImmediate`: 👂 heard
+  - `setImmediate`: 🎓 known
   - `nextTick`: 🎓 known
-  - AbortController: 👂 heard
+  - AbortController: 🎓 known
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🎓 known
   - Promise double resolve: 🎓 known
@@ -71,7 +71,7 @@
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
-  - Error handling in async code: 👂 heard
+  - Error handling in async code: 🖐: 🖐️ used
   - Better stack traces with return await: 👂 heard
   - JSON streaming serialization: 👂 heard
   - AsyncLocalStorage: 👂 heard
@@ -80,8 +80,8 @@
   - Async.js library: 👂 heard
   - RxJS library: 👂 heard
   - Promise.all: 🎓 known
-  - Promise.allSettled
-  - Promise.race: 👂 heard
+  - Promise.allSettled: 🎓 known
+  - Promise.race: 🎓 known
   - Promise.any: 🎓 known
   - Web Locks API: 👂 heard
   - IPC: 👂 heard

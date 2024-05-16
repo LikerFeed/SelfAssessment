@@ -30,7 +30,7 @@
   - Code reuse: 🎓 known
   - Defensive programming: 🎓 known
   - Don't repeat yourself (DRY): 🎓 known
-  - KISS principle:👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
   - Value: 🔬 researched
   - Identifier: 🔬 researched
