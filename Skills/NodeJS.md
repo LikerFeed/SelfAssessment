@@ -14,8 +14,6 @@
   - CommonJS modules: 🙋 explained
   - ECMAScript modules: 🙋 explained
   - node:module: 🙋 explained
-  - CommonJS modules: 🎓 known
-  - ECMAScript modules: 🎓 known
   - Module `node:module`: 🎓 known
   - Caching in CJS and ESM: 👂 heard
   - Modules as singletons: 👂 heard
@@ -23,7 +21,7 @@
   - Dependencies: `npm`, `node_modules`: 🙋 explained
   - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model: 👂 heard
-  - Isolation with modularity: 🖐 used
+  - Isolation with modularity: 🖐: 🖐️ used
   - Dependency injection: 🙋 explained
   - DI containers: 🎓 known
   - Coupling and cohesion: 👂 heard
@@ -36,12 +34,12 @@
   - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 🖐 used
-  - Web Streams API: 🖐 used
-  - Crypto API: 🖐 used
-  - Password hashing with node:crypto.scrypt: 🖐 used
+  - Streams API: 🖐: 🖐️ used
+  - Web Streams API: 🖐: 🖐️ used
+  - Crypto API: 🖐: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐: 🖐️ used
   - Web Crypto API: 👂 heard
-  - File system API: sync and async: 🖐 used
+  - File system API: sync and async: 🖐: 🖐️ used
   - Copy folder recursively: 👂 heard
   - Worker threads: 🎓 known
   - Performance hooks: 👂 heard
@@ -56,8 +54,8 @@
   - Module `node:child_process`: 🎓 known
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
-  - Generating crypto random UUID: 🖐 used
-  - Module `node:url` vs `new URL`: 🖐 used
+  - Generating crypto random UUID: 🖐: 🖐️ used
+  - Module `node:url` vs `new URL`: 🖐: 🖐️ used
   - Module `node:assert`: 👂 heard
   - Internationalization: 👂 heard
   - Blob, File, Buffer, module `node:buffer`: 🎓 known
@@ -96,15 +94,15 @@
   - Application configuring: 🎓 known
   - Testing: 🙋 explained
   - CI/CD: 🙋 explained
-  - Readable: 🖐 used
-  - Writable: 🖐 used
-  - Transform: 🖐 used
+  - Readable: 🖐: 🖐️ used
+  - Writable: 🖐: 🖐️ used
+  - Transform: 🖐: 🖐️ used
   - Back pressure: 👂 heard
   - Buffer: 🎓 known
   - Console: 🙋 explained
   - Inspector: 👂 heard
 - Data access
-  - Data access layer: 🖐 used
+  - Data access layer: 🖐: 🖐️ used
   - Repository: 🙋 explained
   - Active record: 👂 heard
   - Query builder: 🎓 known
@@ -113,15 +111,15 @@
   - DTO: 👂 heard
 - Error handling and debugging
   - `Error`: 🙋 explained
-  - `error.cause`: 🖐 used
-  - `error.code`: 🖐 used
-  - `error.message`: 🖐 used
-  - `error.stack`: 🖐 used
+  - `error.cause`: 🖐: 🖐️ used
+  - `error.code`: 🖐: 🖐️ used
+  - `error.message`: 🖐: 🖐️ used
+  - `error.stack`: 🖐: 🖐️ used
   - `Error.captureStackTrace`: 👂 heard
   - How to avoid mixins: 🎓 known
   - Uncaught exceptions: 🎓 known
   - Heap dump: 🎓 known
-  - Debugging tools: 🖐 used
+  - Debugging tools: 🖐: 🖐️ used
   - Flame graph: 👂 heard
   - Memory leaks: 👂 heard
   - Resource leaks: 👂 heard

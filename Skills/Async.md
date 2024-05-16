@@ -19,7 +19,7 @@
   - Concurrent programming: 🎓 known
   - Parallel programming: 🙋 explained
   - Actor Model: 👂 heard
-  - Thread: 🖐 used
+  - Thread: 🖐: 🖐️ used
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🙋 explained
@@ -30,7 +30,7 @@
   - Future: 🙋 explained
   - Deferred: 👂 heard
   - Sync generator: 🙋 explained
-  - Async Generator: 🖐 used
+  - Async Generator: 🖐: 🖐️ used
   - Async Iterator: 🎓 known
   - Event: 🙋 explained
   - Coroutine: 🎓 known
@@ -48,7 +48,7 @@
   - Async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🙋 explained
-  - Observable/Observer: 🖐 used
+  - Observable/Observer: 🖐: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
@@ -71,7 +71,7 @@
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
-  - Error handling in async code: 🖐 used
+  - Error handling in async code: 🖐: 🖐️ used
   - Better stack traces with return await: 👂 heard
   - JSON streaming serialization: 👂 heard
   - AsyncLocalStorage: 👂 heard

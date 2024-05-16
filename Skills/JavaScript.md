@@ -22,7 +22,7 @@
   - Iterators: 🖐️ used
   - Async generator: 🎓 known
   - Async iterator: 👂 heard
-  - Chaining 🚀 constructed
+  - Chaining: 🚀 constructed
   - Optional chaining: 🙋 explained
   - IIFE: 🎓 known
   - Async IIFE: 👂 heard
@@ -80,27 +80,27 @@
 - Functions
   - Arrow function: 🔬 researched
   - Async function: 🙋 explained
-  - Function declaration: 🖐 used
-  - Function expression: 🖐 used
-  - Default parameters: 🖐 used
+  - Function declaration: 🖐: 🖐️ used
+  - Function expression: 🖐: 🖐️ used
+  - Default parameters: 🖐: 🖐️ used
   - Functional object: 🎓 known
   - `Function.prototype.call`: 🎓 known
   - `Function.prototype.bind`: 🎓 known
   - `Function.prototype.apply`: 🎓 known
   - `return`: 🔬 researched
 - Data structures
-  - `Array`: 🖐 used
+  - `Array`: 🖐: 🖐️ used
   - `Map`: 🔬 researched
   - `Set`: 🙋 explained
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
-  - Typed arrays: 🎓 knownv
+  - Typed arrays: 🎓 knownv 👉 Warning: not matching level and emoji
   - Mixins: 🙋 explained
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
   - `RegExp`c
-  - `Date`: 🖐 used
+  - `Date`: 🖐: 🖐️ used
   - `Math`: 🎓 known
   - `Reflect`: 🎓 known
   - `Error`: 🙋 explained
@@ -110,7 +110,7 @@
   - `FinalizationRegistry`: 🎓 known
   - `Intl`: 🎓 known
   - `Promise`: 🙋 explained
-  - `console`: 🖐 used
+  - `console`: 🖐: 🖐️ used
   - Timers: 🎓 known
 - Infrastructure
   - V8: 🙋 explained

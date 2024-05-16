@@ -5,9 +5,9 @@
   - Virtual DOM: 🔬 researched
   - Functional component: 🙋 explained
   - Class component: 🙋 explained
-  - Dumb component: 🖐 used
-  - Smart component: 🖐 used
-  - Rendering a component: 🖐 used
+  - Dumb component: 🖐: 🖐️ used
+  - Smart component: 🖐: 🖐️ used
+  - Rendering a component: 🖐: 🖐️ used
   - Props: 🙋 explained
   - State: 🙋 explained
   - Composing components: 🎓 known
@@ -18,31 +18,31 @@
   - Handling Events: 👂 heard
   - Prevent from Rendering: 🎓 known
   - Multiple Rendering: 🎓 known
-  - Controlled Components: 🖐 used
-  - Lifting State Up: : 🖐 used
-  - Composition vs Inheritance:👂 heard
+  - Controlled Components: 🖐: 🖐️ used
+  - Lifting State Up: : 🖐: 🖐️ used
+  - Composition vs Inheritance: 👂 heard
   - Code-Splitting: 👂 heard
-  - Bundling: 🖐 used
+  - Bundling: 🖐: 🖐️ used
   - React.lazy: 🙋 explained
   - Suspense and fallbacks: 👂 heard
-  - Named Exports: 🖐 used
-  - React Context: 🖐 used
-  - Context.Provider: 🖐 used
-  - Context.Consumer: 🖐 used
-  - Error Boundaries: 🖐 used
-  - Refs: 🖐 used
+  - Named Exports: 🖐: 🖐️ used
+  - React Context: 🖐: 🖐️ used
+  - Context.Provider: 🖐: 🖐️ used
+  - Context.Consumer: 🖐: 🖐️ used
+  - Error Boundaries: 🖐: 🖐️ used
+  - Refs: 🖐: 🖐️ used
   - Forwarding refs: 👂 heard
-  - Fragments: 🖐 used
-  - Higher-Order Components: 🖐 used
+  - Fragments: 🖐: 🖐️ used
+  - Higher-Order Components: 🖐: 🖐️ used
   - Portals: 🎓 known
   - Profiler: 🎓 known
-  - Render Props: 🖐 used
-  - Strict Mode: : 🖐 used
+  - Render Props: 🖐: 🖐️ used
+  - Strict Mode: : 🖐: 🖐️ used
   - Uncontrolled Components: 🎓 known
 - Hooks
   - useState: 🙋 explained
   - useEffect: 🙋 explained
-  - useReducer: 🖐 used
+  - useReducer: 🖐: 🖐️ used
   - useContext: 🎓 known
   - useRef: 🎓 known
   - useCallback: 🎓 known
@@ -66,8 +66,8 @@
   - React Dom: 🙋 explained
   - Redux Thunk: 🙋 explained
   - Redux Final Form: 🎓 known
-  - Formik: 🖐 used
-  - Babel: 🖐 used
+  - Formik: 🖐: 🖐️ used
+  - Babel: 🖐: 🖐️ used
   - Sass: 🙋 explained
   - Webpack: 🎓 known
   - Hook form: 🎓 known
