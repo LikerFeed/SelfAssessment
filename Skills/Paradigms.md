@@ -11,18 +11,24 @@
   - Object-based programming: 🙋 explained
   - Generic programming: 🎓 known
   - Concurrent computing: 👂 heard
-  - Asyncronous programming: 🙋 explained
+  - Asynchronous programming: 🙋 explained
   - Parallel programming: 🎓 known
   - Reactive programming: 🎓 known
-  - FRP (Functional-reactive):👂 heard
-  - Automata-based programming: 👂 heard
+  - Functional-reactive (FRP):👂 heard
+  - Automata-based programming:👂 heard
   - Domain-specific languages: 🙋 explained
   - Multi-paradigm programming: 🙋 explained
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
+  - Lambda calculus: 🎓 known
+  - Black box: 🎓 known
+  - Information hiding: 🎓 known
+  - Aspect-oriented programming: 👂 heard
+  - Anemic domain model: 🎓 known
+  - Class composition: 🎓 known
 - OOP basics
-  - constructor: 🙋 explained
-  - new: 🖐 used
+  - Constructor: 🙋 explained
+  - Operator `new`: 🖐 used
   - Static method: 🖐 used
   - Method: 🙋 explained
   - Async method: 🖐 used
@@ -38,13 +44,29 @@
   - Encapsulation: 🖐 used
   - Hidden class: 🙋 explained
   - Object form: 🎓 known
-  - instance: 🖐 used
+  - Instance: 🖐 used
   - Introspection: 🎓 known
   - Reflection: 🎓 known
+  - The diamond problem: 👂 heard
+- GRASP
+  - Information expert: 🎓 known
+  - Creator: 🖐 used
+  - Controller: 🖐 used
+  - Indirection: 🖐 used
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations: 🎓 known
+  - Pure fabrication: 👂 heard
+- SOLID
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
   - Singleton: 🚀 constructed
   - Factory Method: 🖐 used
-  - Abstract Factory: 👂 heard
+  - Abstract Factory
   - Adapter: 🖐 used
   - Observer: 🖐 used
   - Strategy: 🎓 known
@@ -64,3 +86,6 @@
   - Memento: 👂 heard
   - Template Method: 🎓 known
   - Visitor: 👂 heard
+  - Reactor: 👂 heard
+  - Active object: 🎓 known
+  - Delegation: 🎓 known

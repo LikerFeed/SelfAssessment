@@ -1,45 +1,63 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object: 🙋 explained
-  - this: 🖐️ used
-  - arrow function: 🔬 researched
-  - async function: 🔬 researched
-  - call: 🖐️ used
-  - bind: 🖐️ used
-  - apply: 🖐️ used
-  - instanceof: 🖐️ used
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring: 🙋 explained
-  - generator: 🚀 constructed
-  - iterator: 🖐️ used
-  - async generator: 🖐️ used
-  - async iterator: 🎓 known
-  - chaining: 🚀 constructed
-  - optional chaining: 🙋 explained
+  - `Object`: 🙋 explained
+  - `Function`: 🔬 researched
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🙋 explained
+  - `Symbol`: 🎓 known
+  - `Infinity`: 👂 heard
+  - `NaN`: 🖐️ used
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🙋 explained
+  - Generators: 🚀 constructed
+  - Iterators: 🖐️ used
+  - Async generator: 🎓 known
+  - Async iterator: 👂 heard
+  - Chaining 🚀 constructed
+  - Optional chaining: 🙋 explained
   - IIFE: 🎓 known
-  - global: 🖐️ used
-  - globalThis: 🖐️ used
-  - window: 🎓 known
-  - getters and setters: 🙋 explained
-  - __proto__: 🙋 explained
-  - prototype: 🙋 explained
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
-  - yield: 🖐️ used
-  - await: 🔬 researched
-  - template literal: 🖐️ used
-  - strict mode: 🔬 researched
-  - delete: 🖐️ used
-  - in: 🖐️ used
-  - super: 🎓 known
-  - Symbol: 🔬 researched
-  - Reflect: 🎓 known
+  - Async IIFE: 👂 heard
+  - `global`: 🖐️ used
+  - `globalThis`: 🖐️ used
+  - `window`: 🎓 known
+  - Getters and setters: 🙋 explained
+  - `__proto__`: 🙋 explained
+  - `prototype`: 🙋 explained
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
+  - `void`: 🖐️ used
+  - `yield`: 🖐️ used
+  - `await`: 🔬 researched
+  - Template literal: 🖐️ used
+  - Strict mode: 🔬 researched
+  - Hoisting: 🎓 known
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super`: 🎓 known
+  - `eval`: 🎓 known
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
+  - Property descriptors: 🎓 known
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 🎓 known
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
@@ -60,31 +78,44 @@
   - new Error: 🙋 explained
   - with: 👂 heard
 - Functions
-  - function declaration: 🖐 used
-  - function expression: 🖐 used
-  - return: 🖐 used
-  - default parameters: 🖐 used
-  - functional object: 🎓 known
+  - Arrow function: 🔬 researched
+  - Async function: 🙋 explained
+  - Function declaration: 🖐 used
+  - Function expression: 🖐 used
+  - Default parameters: 🖐 used
+  - Functional object: 🎓 known
+  - `Function.prototype.call`: 🎓 known
+  - `Function.prototype.bind`: 🎓 known
+  - `Function.prototype.apply`: 🎓 known
+  - `return`: 🔬 researched
 - Data structures
-  - Array: 🖐 used
-  - mixin: 🙋 explained
-  - extend: 🖐 used
-  - typed arrays: 🖐 used
-  - Set: 🙋 explained
-  - Map: 🔬 researched
-  - Set: 🔬 researched
-  - undefined: 🖐 used
-  - null: 🖐 used
-  - Proxy: 🖐 used
-  - weak collections: 🖐 used
-  - timers:  🎓 known
-  - EventEmitter: 🙋 explained
-  - RegExp: 🙋 explained
-  - Date: 🖐 used
-  - BigInt: 🎓 known
+  - `Array`: 🖐 used
+  - `Map`: 🔬 researched
+  - `Set`: 🙋 explained
+  - `WeakMap`: 🎓 known
+  - `WeakSet`: 🎓 known
+  - Typed arrays: 🎓 knownv
+  - Mixins: 🙋 explained
+  - `Object.assign`: 🎓 known
+- Standard classes and namespaces
+  - `Proxy`: 🎓 known
+  - `RegExp`c
+  - `Date`: 🖐 used
+  - `Math`: 🎓 known
+  - `Reflect`: 🎓 known
+  - `Error`: 🙋 explained
+  - `Atomics`: 👂 heard
+  - `JSON`: 🙋 explained
+  - `WeakRef`: 🎓 known
+  - `FinalizationRegistry`: 🎓 known
+  - `Intl`: 🎓 known
+  - `Promise`: 🙋 explained
+  - `console`: 🖐 used
+  - Timers: 🎓 known
 - Infrastructure
   - V8: 🙋 explained
   - Node.js: 🔬 researched
   - npm: 🔬 researched
   - prettier: 🔬 researched
-  - MDN: 🖐 used
+  - MDN: 🙋 explained
+  - TC39: 🎓 known
