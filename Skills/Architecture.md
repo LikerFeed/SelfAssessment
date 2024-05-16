@@ -1,0 +1,100 @@
+## Architecture
+
+- Application structure
+  - Modularity: 🖐️ used
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
+  - CQS: 🎓 known
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🎓 known
+  - Cohesion
+  - Coupling
+  - Cyclomatic complexity
+  - Reliability
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD)
+- Application architecture
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 🎓 known
+  - System vs applied code
+  - Multilayer approach
+  - Hexagonal architecture
+  - Separation of concerns (SoC)
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD)
+  - Pub/sub
+  - Message brocker
+  - Agent: 👂 heard
+  - Service locator
+  - Message Queue (MQ)
+  - CQRS
+  - Event sourcing
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram
+  - IDEF1X
+  - UML: 🖐️ used
+  - Work breakdown structure
+  - Budget estimation: 👂 heard
+  - Distributed systems
+  - High-intensive computing
+  - Load balancing
+  - Gateways
+  - On-premises
+  - IaaS
+  - PaaS
+  - SaaS
+  - FaaS clouds
+  - Serverless
+  - Vendor lock-in
+  - Bus factor
+- Solution architecture
+  - A software requirements specification (SRS)
+  - Solution visions
+  - Solution capabilities
+  - System design
+  - Process modelling
+  - Data modelling
+  - Solution components
+  - Risk assessment: 🎓 known
+  - Non Functional Requirements (NFR)
+  - Clouds: 🙋 explained
+  - BPMN
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric
+  - Metric abuse
+  - ACID: 🖐️ used
+  - CAP theorem
+  - Single source of truth (SSOT)
+- Enterprise architecture
+  - Understanding business needs
+  - Enterprise strategy
+  - Integration with subsystems
+  - Enterprise vision
+  - Enterprise capabilities
+  - Project scope
+  - Enterprise service bus
+  - Service-oriented architecture
+  - Microservices
+  - Process choreography
+  - Service orchestration
+  - Data warehouse
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law: 👂 heard
+  - Quality assurance
+  - Engineering Hygiene

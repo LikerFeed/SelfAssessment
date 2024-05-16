@@ -1,0 +1,94 @@
+## Databases
+
+- Theory and concepts
+  - Data types: 🙋 explained
+  - Performance tuning: 🎓 known
+  - Migrations: 🙋 explained
+  - Schema versioning: 🎓 known
+  - Backup and recovery: 🙋 explained
+  - Database scalability: 🙋 explained
+  - Relational databases: 🙋 explained
+  - Key-value store: 🙋 explained
+  - Tuple store: 🎓 known
+  - Graph databases: 🙋 explained
+  - Object databases: 🙋 explained
+  - Column databases: 🙋 explained
+  - Navigational databases: 🙋 explained
+  - Hierarchical databases: 🙋 explained
+  - In-memory databases: 🙋 explained
+  - Inverted index: 🎓 known
+  - Data control language (DCL): 🙋 explained
+  - Data definition language (DDL): 🙋 explained
+  - Data manipulation language (DML): 🙋 explained
+  - Data query language (DQL): 🙋 explained
+- Relational
+  - Entity-Relationship Diagram: 🖐️ used
+  - Normal forms: 🎓 known
+  - Indexing: 🎓 known
+  - Primary keys: 🎓 known
+  - Foreign keys: 🎓 known
+  - Transactions: 🎓 known
+  - Views: 🎓 known
+  - Subqueries: 🎓 known
+  - Stored procedures: 👂 heard
+  - SQL functions: 👂 heard
+  - Materialized views: 👂 heard
+  - Replications: 👂 heard
+  - Virtualization: 🎓 known
+- SQL
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🎓 known
+  - `OFFSET`: 🎓 known
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 🖐️ used
+  - `DEFAULT`: 🖐️ used
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
+  - `GRANT`: 🎓 known
+  - `REVOKE`: 🎓 known
+  - `DENY`: 🎓 known
+  - `EXPLAIN`: 🎓 known
+- Engines
+  - PostgreSQL: 🖐️ used
+  - Oracle: 👂 heard
+  - MySQL: 🖐️ used
+  - MariaDB: 👂 heard
+  - MS SQL Server: 👂 heard
+  - Redis: 👂 heard
+  - Rabbit: 👂 heard
+  - MongoDB: 🖐️ used
+  - Memcached: 👂 heard
+  - Riak: 👂 heard
+  - DB2: 👂 heard
+  - SQLite: 🖐️ used
+  - DynamoDB: 👂 heard
+  - Firebase: 👂 heard
+- Data engineering
+  - Data warehousing: 🎓 known
+  - Business intelligence: 🎓 known
+  - Big data: 🎓 known
+  - Data analysis: 🎓 known
+  - AI tools: 🎓 known
+  - Cloud databases: 🎓 known
+  - Data Visualization: 🎓 known
