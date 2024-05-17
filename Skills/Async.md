@@ -18,23 +18,23 @@
   - Live locks: 🎓 known
   - Concurrent programming: 🎓 known
   - Parallel programming: 🙋 explained
-  - Actor Model: 👂 heard
+  - Actor Model: 🎓 known
   - Thread: 🔬 researched
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🙋 explained
   - Callback-last-error-first: 🙋 explained
-  - Thenable: 👂 heard
+  - Thenable: 🎓 known
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
   - Future: 🙋 explained
-  - Deferred: 👂 heard
+  - Deferred: 🎓 known
   - Sync generator: 🙋 explained
   - Async Generator: 🖐️ used
   - Async Iterator: 🎓 known
   - Event: 🙋 explained
   - Coroutine: 🎓 known
-  - Goroutine: 👂 heard
+  - Goroutine: 🎓 known
   - Signal: 🙋 explained
   - Stream: 🎓 known
   - Chain of responsibility: 👂 heard

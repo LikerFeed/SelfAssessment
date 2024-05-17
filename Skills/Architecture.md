@@ -1,13 +1,13 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 🖐️ used
-  - Components: 🎓 known
-  - Directories: 🎓 known
+  - Modularity: 🙋 explained
+  - Components: 🙋 explained
+  - Directories: 🙋 explained
   - GRASP: 🙋 explained
   - SOLID: 🙋 explained
-  - GoF patterns: 🎓 known
-  - CQS: 🎓 known
+  - GoF patterns: 🙋 explained
+  - CQS: 🙋 explained
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🎓 known
   - Contract programming: 👂 heard
