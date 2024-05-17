@@ -19,6 +19,7 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 
 - [React](Skills/ReactJS.md)
 - [SQL](Skills/SQL.md)
+- [Project Management](Skills/PM.md)
 
 ## How to use
 

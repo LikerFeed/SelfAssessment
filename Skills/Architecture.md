@@ -4,8 +4,8 @@
   - Modularity: 🖐️ used
   - Components: 🎓 known
   - Directories: 🎓 known
-  - GRASP: 🎓 known
-  - SOLID: 🎓 known
+  - GRASP: 🙋 explained
+  - SOLID: 🙋 explained
   - GoF patterns: 🎓 known
   - CQS: 🎓 known
   - Leaking abstractions: 🎓 known
@@ -15,86 +15,86 @@
   - Transport-agnostic: 👂 heard
   - Framework-agnostic: 👂 heard
   - Code coverage: 🎓 known
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 🎓 known
+  - Reliability: 🎓 known
   - Quality: 🎓 known
   - Availability: 🎓 known
   - Flexibility: 🎓 known
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
   - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 🎓 known
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - System vs applied code: 🎓 known
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture: 🎓 known
+  - Separation of concerns (SoC): 🎓 known
   - Metaprogramming: 🎓 known
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
   - Clean architecture: 🎓 known
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent: 👂 heard
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
+  - Domain-driven design (DDD): 🎓 known
+  - Pub/sub: 🎓 known
+  - Message brocker: 🎓 known
+  - Agent: 🎓 known
+  - Service locator: 🎓 known
+  - Message Queue (MQ): 🎓 known
+  - CQRS: 🎓 known
+  - Event sourcing: 🎓 known
   - E-R data modeling: 🖐️ used
-  - Entity-relationship diagram
-  - IDEF1X
+  - Entity-relationship diagram: 🎓 known
+  - IDEF1X: 👂 heard
   - UML: 🖐️ used
-  - Work breakdown structure
+  - Work breakdown structure: 🎓 known
   - Budget estimation: 👂 heard
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
-  - Bus factor
+  - Distributed systems: 🎓 known
+  - High-intensive computing: 🎓 known
+  - Load balancing: 🎓 known
+  - Gateways: 🎓 known
+  - On-premises: 🎓 known
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
+  - Vendor lock-inv: 👂 heard
+  - Bus factor: 👂 heard
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
+  - System design: 👂 heard
+  - Process modelling: 🎓 known
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
   - Risk assessment: 🎓 known
   - Non Functional Requirements (NFR)
   - Clouds: 🙋 explained
-  - BPMN
-  - Low-code: 👂 heard
-  - No-code: 👂 heard
-  - Metric
-  - Metric abuse
-  - ACID: 🖐️ used
-  - CAP theorem
-  - Single source of truth (SSOT)
+  - BPMN: 🎓 known
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
+  - Metric: 👂 heard
+  - Metric abuse: 👂 heard
+  - ACID: 👂 heard
+  - CAP theorem: 🎓 known
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
-  - Service orchestration
-  - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 🎓 known
+  - Integration with subsystems: 🎓 known
+  - Enterprise vision: 🎓 known
+  - Enterprise capabilities: 🎓 known
+  - Project scope: 🎓 known
+  - Enterprise service bus: 👂 heard
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 🙋 explained
+  - Process choreography: 👂 heard
+  - Service orchestration: 👂 heard
+  - Data warehouse: 👂 heard
+  - Business Intelligence: 🎓 known
+  - OLAP: 🎓 known
+  - OLTP: 🎓 known
   - Conways Law: 👂 heard
-  - Quality assurance
-  - Engineering Hygiene
+  - Quality assurance: 🎓 known
+  - Engineering Hygiene: 🎓 known

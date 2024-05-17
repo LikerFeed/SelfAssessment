@@ -12,7 +12,7 @@
   - Generic programming: 🎓 known
   - Concurrent computing: 👂 heard
   - Asynchronous programming: 🙋 explained
-  - Parallel programming: 🎓 known
+  - Parallel programming: 🔬 researched
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
@@ -21,60 +21,60 @@
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
   - Lambda calculus: 🎓 known
-  - Black box: 🎓 known
+  - Black box: 🙋 explained
   - Information hiding: 🎓 known
   - Aspect-oriented programming: 👂 heard
   - Anemic domain model: 🎓 known
   - Class composition: 🎓 known
 - OOP basics
   - Constructor: 🙋 explained
-  - Operator `new`: 🖐: 🖐️ used
-  - Static method: 🖐: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
   - Method: 🙋 explained
-  - Async method: 🖐: 🖐️ used
+  - Async method: 🖐️ used
   - Getters, Setters: 🙋 explained
-  - Public fields: 🖐: 🖐️ used
-  - Private fields: 🖐: 🖐️ used
-  - Field declarations: 🖐: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
   - Inheritance: 🎓 known
-  - Parent class: 🖐: 🖐️ used
-  - Polymorphism: 🖐: 🖐️ used
-  - Abstract class: 🖐: 🖐️ used
-  - Interface: 🖐: 🖐️ used
-  - Encapsulation: 🖐: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
   - Hidden class: 🙋 explained
   - Object form: 🎓 known
-  - Instance: 🖐: 🖐️ used
+  - Instance: 🖐️ used
   - Introspection: 🎓 known
   - Reflection: 🎓 known
   - The diamond problem: 👂 heard
 - GRASP
   - Information expert: 🎓 known
-  - Creator: 🖐: 🖐️ used
-  - Controller: 🖐: 🖐️ used
-  - Indirection: 🖐: 🖐️ used
+  - Creator: 🖐️ used
+  - Controller: 🖐️ used
+  - Indirection: 🖐️ used
   - Low coupling: 🎓 known
   - High cohesion: 🎓 known
   - Protected variations: 🎓 known
-  - Pure fabrication: 👂 heard
+  - Pure fabrication: 🎓 known
 - SOLID
   - Single-responsibility principle (SRP): 🎓 known
   - Open–closed principle (OCP): 🎓 known
   - Liskov substitution principle (LSP): 🎓 known
-  - Interface segregation principle (ISP): 👂 heard
-  - Dependency inversion principle (DIP): 👂 heard
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
   - Singleton: 🚀 constructed
-  - Factory Method: 🖐: 🖐️ used
+  - Factory Method: 🖐️ used
   - Abstract Factory
-  - Adapter: 🖐: 🖐️ used
-  - Observer: 🖐: 🖐️ used
+  - Adapter: 🖐️ used
+  - Observer: 🖐️ used
   - Strategy: 🎓 known
   - Facade: 🎓 known
   - Proxy: 🎓 known
   - Chain of Responsibility: 🎓 known
-  - Command: 🖐: 🖐️ used
-  - Iterator: 🖐: 🖐️ used
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
   - State: 🎓 known
   - Bridge: 👂 heard
   - Builder: 👂 heard
