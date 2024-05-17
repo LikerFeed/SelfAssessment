@@ -72,13 +72,13 @@
   - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🖐: 🖐️ used
-  - Better stack traces with return await: 👂 heard
+  - Better stack traces with return await: 👂 heardk
   - JSON streaming serialization: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
 - Techniques
-  - Async.js library: 👂 heard
-  - RxJS library: 👂 heard
+  - Async.js library: 🙋 explained
+  - RxJS library: 🎓 known
   - Promise.all: 🎓 known
   - Promise.allSettled: 🎓 known
   - Promise.race: 🎓 known
