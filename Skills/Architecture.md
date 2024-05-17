@@ -15,10 +15,10 @@
   - Transport-agnostic: 👂 heard
   - Framework-agnostic: 👂 heard
   - Code coverage: 🎓 known
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
+  - Cohesion: 👂 heard
+  - Coupling: 👂 heard
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 👂 heard
   - Quality: 🎓 known
   - Availability: 🎓 known
   - Flexibility: 🎓 known
@@ -28,13 +28,13 @@
   - Domain-specific language (DSL): 🎓 known
   - System vs applied code
   - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC): 🎓 known
   - Metaprogramming: 🎓 known
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 👂 heard
   - Clean architecture: 🎓 known
-  - Domain-driven design (DDD)
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
   - Agent: 👂 heard
@@ -43,31 +43,31 @@
   - CQRS
   - Event sourcing
   - E-R data modeling: 🖐️ used
-  - Entity-relationship diagram
-  - IDEF1X
+  - Entity-relationship diagram: 🖐️ used
+  - IDEF1X: 🎓 known
   - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation: 👂 heard
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - Gateways: 🎓 known
+  - On-premises: 👂 heard
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
   - FaaS clouds
   - Serverless
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
+  - A software requirements specification (SRS): 👂 heard
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
+  - Solution components: 👂 heard
   - Risk assessment: 🎓 known
   - Non Functional Requirements (NFR)
   - Clouds: 🙋 explained
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 👂 heard
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
+  - Business Intelligence: 🎓 known
+  - OLAP: 👂 heard
+  - OLTP: 👂 heard
   - Conways Law: 👂 heard
   - Quality assurance
   - Engineering Hygiene
