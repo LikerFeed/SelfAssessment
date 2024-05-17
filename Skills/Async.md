@@ -72,7 +72,7 @@
   - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🖐: 🖐️ used
-  - Better stack traces with return await: 👂 heardk
+  - Better stack traces with return await: 👂 heardk 👉 Warning: not matching level and emoji
   - JSON streaming serialization: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard

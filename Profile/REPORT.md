@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-658&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-688&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-658&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-688&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-658&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square"></a>
+<a href="https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-688&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -30,7 +30,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `13` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
@@ -38,7 +38,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `18` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `11` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `17` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `16` | `16` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `10` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `9` | `9` |
@@ -57,10 +57,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `24` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `17` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `8` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `5` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `1` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `21` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `20` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `12` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `8` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
@@ -125,13 +125,12 @@ Total: you have `50` of `72` skills, `22` to be upgraded, and `32` above needed
 | Function expression | 🤷 unknown | ⟶  | 🖐️ used |
 | Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
 | `Array` | 🤷 unknown | ⟶  | 🖐️ used |
-| Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
 | `RegExp` | 🤷 unknown | ⟶  | 🎓 known |
 | `Date` | 🤷 unknown | ⟶  | 🎓 known |
 | `console` | 🤷 unknown | ⟶  | 🖐️ used |
 | Timers | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `62` of `98` skills, `36` to be upgraded, and `28` above needed
+Total: you have `63` of `98` skills, `35` to be upgraded, and `28` above needed
 
 ## [Async](/Skills/Async.md)
 
@@ -155,14 +154,14 @@ Total: you have `62` of `98` skills, `36` to be upgraded, and `28` above needed
 | AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 | Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
-| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
+| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🎓 known | ⟶  | 🖐️ used |
 | Promise.race | 🎓 known | ⟶  | 🖐️ used |
 | Promise.any | 🎓 known | ⟶  | 🖐️ used |
 | Revealing constructor | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `27` of `50` skills, `23` to be upgraded, and `11` above needed
+Total: you have `27` of `50` skills, `23` to be upgraded, and `12` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -173,7 +172,7 @@ Total: you have `27` of `50` skills, `23` to be upgraded, and `11` above needed
 | AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 | Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
-| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
+| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🎓 known | ⟶  | 🖐️ used |
 | Promise.race | 🎓 known | ⟶  | 🖐️ used |
@@ -225,7 +224,7 @@ Total: you have `25` of `37` skills, `12` to be upgraded, and `8` above needed
 | Promise hell | 🎓 known | ⟶  | 🖐️ used |
 | ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
 | Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
-| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
+| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | JSON streaming serialization | 👂 heard | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 👂 heard | ⟶  | 🖐️ used |
 | AsyncResource | 👂 heard | ⟶  | 🖐️ used |
@@ -238,7 +237,7 @@ Total: you have `25` of `37` skills, `12` to be upgraded, and `8` above needed
 | Channel API | 👂 heard | ⟶  | 🎓 known |
 | Revealing constructor | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `21` of `75` skills, `54` to be upgraded, and `15` above needed
+Total: you have `21` of `75` skills, `54` to be upgraded, and `17` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
