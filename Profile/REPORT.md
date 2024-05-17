@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-688&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-689&nbsp;/&nbsp;730&nbsp;/&nbsp;730-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-688&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-689&nbsp;/&nbsp;730&nbsp;/&nbsp;730-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-688&nbsp;/&nbsp;729&nbsp;/&nbsp;729-FF3300?style=flat-square"></a>
+<a href="https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-689&nbsp;/&nbsp;730&nbsp;/&nbsp;730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -38,7 +38,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `18` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `11` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `16` | `16` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `17` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `10` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `9` | `9` |
@@ -154,7 +154,7 @@ Total: you have `63` of `98` skills, `35` to be upgraded, and `28` above needed
 | AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 | Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
-| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
+| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
 | Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🎓 known | ⟶  | 🖐️ used |
 | Promise.race | 🎓 known | ⟶  | 🖐️ used |
@@ -172,7 +172,7 @@ Total: you have `27` of `50` skills, `23` to be upgraded, and `12` above needed
 | AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 | Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
-| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
+| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
 | Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🎓 known | ⟶  | 🖐️ used |
 | Promise.race | 🎓 known | ⟶  | 🖐️ used |
@@ -224,7 +224,7 @@ Total: you have `25` of `37` skills, `12` to be upgraded, and `8` above needed
 | Promise hell | 🎓 known | ⟶  | 🖐️ used |
 | ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
 | Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
-| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
+| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
 | JSON streaming serialization | 👂 heard | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 👂 heard | ⟶  | 🖐️ used |
 | AsyncResource | 👂 heard | ⟶  | 🖐️ used |
