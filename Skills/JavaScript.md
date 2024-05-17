@@ -76,7 +76,7 @@
   - switch: 🙋 explained
   - class: 🙋 explained
   - new Error: 🙋 explained
-  - with: 👂 heard
+  - with: 🎓 known
 - Functions
   - Arrow function: 🔬 researched
   - Async function: 🙋 explained
@@ -94,7 +94,7 @@
   - `Set`: 🙋 explained
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
-  - Typed arrays: 🎓 knownv 👉 Warning: not matching level and emoji
+  - Typed arrays: 🎓 known
   - Mixins: 🙋 explained
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
