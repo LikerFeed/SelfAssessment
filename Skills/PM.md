@@ -8,7 +8,6 @@
   - Lean: 🎓 known
   - Six Sigma: 👂 heard
   - PRINCE2: 👂 heard
-
 - Planning
   - Project charter: 🔬 researched
   - Scope statement: 🙋 explained
@@ -19,7 +18,6 @@
   - Budgeting: 🙋 explained
   - Risk management plan: 🎓 known
   - Communication plan: 🙋 explained
-
 - Execution
   - Task management: 🙋 explained
   - Team leadership: 🎓 known
@@ -27,7 +25,6 @@
   - Quality assurance: 🎓 known
   - Change management: 🙋 explained
   - Conflict resolution: 🙋 explained
-
 - Monitoring and Control
   - Key performance indicators (KPIs): 🙋 explained
   - Status reports: 🎓 known
@@ -36,7 +33,6 @@
   - Issue tracking: 🙋 explained
   - Scope verification: 🙋 explained
   - Earned value management (EVM): 👂 heard
-
 - Tools and Software
   - Microsoft Project: 🎓 known
   - Jira: 🔬 researched

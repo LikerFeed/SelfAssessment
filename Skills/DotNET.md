@@ -7,7 +7,7 @@
   - Task-based asynchronous pattern
   - Garbage collection in .NET
   - .NET runtime versions and support: 🎓 known
-  - I/O-bound, CPU-bound tasks 🎓 known
+  - I/O-bound, CPU-bound tasks: 🎓 known
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
@@ -19,9 +19,9 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools 🎓 known
-  - .NET CLI 👂 heard
-  - Windows Services and Linux Daemons 🎓 known
+  - Command line interface (CLI) tools: 🎓 known
+  - .NET CLI: 👂 heard
+  - Windows Services and Linux Daemons: 🎓 known
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration
