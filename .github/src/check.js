@@ -50,6 +50,10 @@ const UNITS = [
   'NodeJS',
   'Paradigms',
   'Architecture',
+  'Databases',
+  'SQL',
+  'ReactJS',
+  'DotNET',
 ];
 
 const wrongFormat = (msg, file) => {
