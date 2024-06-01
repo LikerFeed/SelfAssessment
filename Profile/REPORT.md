@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-724&nbsp;/&nbsp;732&nbsp;/&nbsp;732-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-903&nbsp;/&nbsp;948&nbsp;/&nbsp;1048-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-724&nbsp;/&nbsp;732&nbsp;/&nbsp;732-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-903&nbsp;/&nbsp;948&nbsp;/&nbsp;1048-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-724&nbsp;/&nbsp;732&nbsp;/&nbsp;732-009933?style=flat-square"></a>
+<a href="https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-903&nbsp;/&nbsp;948&nbsp;/&nbsp;1048-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -31,7 +31,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `14` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `13` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `20` | `20` |
@@ -57,10 +57,43 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `24` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `22` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `36` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `17` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `18` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `21` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `20` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `12` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `8` | `18` |
+| [Databases](/Skills/Databases.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory and concepts | `20` | `20` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Relational | `13` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; SQL | `33` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Engines | `14` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data engineering | `7` | `7` |
+| [SQL](/Skills/SQL.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `12` | `12` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax | `23` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Aggregate functions | `15` | `15` |
+| [ReactJS](/Skills/ReactJS.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `38` | `38` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Hooks | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `11` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `15` | `15` |
+| [DotNET](/Skills/DotNET.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Core Concepts and Internals | `4` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity and Dependencies | `0` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment and Tools | `0` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; APIs and Framework Features | `0` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network and Protocols | `0` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Testing and Debugging | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data Access and ORM | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error Handling and Debugging | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Integration and Extensibility | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Cloud and Microservices | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; C# Development | `0` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; `F#` Development | `0` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; VB.NET Development | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; C++/CLI Development Development | `0` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Mobile development | `0` | `2` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Game development | `1` | `1` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Web development | `0` | `4` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
@@ -115,9 +148,16 @@ Total: you have `55` of `72` skills, `17` to be upgraded, and `41` above needed
 | `class` | 🤷 unknown | ⟶  | 🖐️ used |
 | `extends` | 🤷 unknown | ⟶  | 🖐️ used |
 | `new` | 🤷 unknown | ⟶  | 🖐️ used |
+| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
+| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
+| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
+| `Array` | 🤷 unknown | ⟶  | 🖐️ used |
+| `RegExp` | 🤷 unknown | ⟶  | 🎓 known |
+| `Date` | 🤷 unknown | ⟶  | 🎓 known |
+| `console` | 🤷 unknown | ⟶  | 🖐️ used |
 | Timers | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `71` of `98` skills, `27` to be upgraded, and `41` above needed
+Total: you have `63` of `98` skills, `35` to be upgraded, and `28` above needed
 
 ## [Async](/Skills/Async.md)
 
@@ -141,7 +181,7 @@ Total: you have `71` of `98` skills, `27` to be upgraded, and `41` above needed
 | Promise.any | 🎓 known | ⟶  | 🖐️ used |
 | Revealing constructor | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `34` of `50` skills, `16` to be upgraded, and `20` above needed
+Total: you have `27` of `50` skills, `23` to be upgraded, and `12` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -203,7 +243,7 @@ Total: you have `27` of `37` skills, `10` to be upgraded, and `11` above needed
 | Channel API | 👂 heard | ⟶  | 🎓 known |
 | Revealing constructor | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `33` of `75` skills, `42` to be upgraded, and `25` above needed
+Total: you have `21` of `75` skills, `54` to be upgraded, and `17` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
