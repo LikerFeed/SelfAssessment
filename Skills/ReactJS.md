@@ -19,7 +19,7 @@
   - Prevent from Rendering: 🎓 known
   - Multiple Rendering: 🎓 known
   - Controlled Components: 🖐️ used
-  - Lifting State Up:: 🖐️ used
+  - Lifting State Up: 🖐️ used
   - Composition vs Inheritance: 👂 heard
   - Code-Splitting: 👂 heard
   - Bundling: 🖐️ used
@@ -37,7 +37,7 @@
   - Portals: 🎓 known
   - Profiler: 🎓 known
   - Render Props: 🖐️ used
-  - Strict Mode:: 🖐️ used
+  - Strict Mode: 🖐️ used
   - Uncontrolled Components: 🎓 known
 - Hooks
   - useState: 🙋 explained
