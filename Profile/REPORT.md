@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-689&nbsp;/&nbsp;730&nbsp;/&nbsp;730-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-903&nbsp;/&nbsp;948&nbsp;/&nbsp;1048-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-689&nbsp;/&nbsp;730&nbsp;/&nbsp;730-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-903&nbsp;/&nbsp;948&nbsp;/&nbsp;1048-009933?style=flat-square)](https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-689&nbsp;/&nbsp;730&nbsp;/&nbsp;730-009933?style=flat-square"></a>
+<a href="https://github.com/LikerFeed/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-903&nbsp;/&nbsp;948&nbsp;/&nbsp;1048-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -61,6 +61,39 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `20` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `12` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `8` | `18` |
+| [Databases](/Skills/Databases.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory and concepts | `20` | `20` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Relational | `13` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; SQL | `33` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Engines | `14` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data engineering | `7` | `7` |
+| [SQL](/Skills/SQL.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `12` | `12` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax | `23` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Aggregate functions | `15` | `15` |
+| [ReactJS](/Skills/ReactJS.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `38` | `38` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Hooks | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `11` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `15` | `15` |
+| [DotNET](/Skills/DotNET.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Core Concepts and Internals | `4` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity and Dependencies | `0` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment and Tools | `0` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; APIs and Framework Features | `0` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network and Protocols | `0` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Testing and Debugging | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data Access and ORM | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error Handling and Debugging | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Integration and Extensibility | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Cloud and Microservices | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; C# Development | `0` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; `F#` Development | `0` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; VB.NET Development | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; C++/CLI Development Development | `0` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Mobile development | `0` | `2` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Game development | `1` | `1` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Web development | `0` | `4` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
