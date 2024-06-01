@@ -14,8 +14,8 @@
   - Extracting components: 🎓 known
   - Lifecycle components: 🎓 known
   - Conditional rendering: 🎓 known
-  - The Data Flows Down: 👂 heard
-  - Handling Events: 👂 heard
+  - The Data Flows Down: 🎓 known
+  - Handling Events: 🎓 known
   - Prevent from Rendering: 🎓 known
   - Multiple Rendering: 🎓 known
   - Controlled Components: 🖐️ used

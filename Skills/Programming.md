@@ -163,7 +163,7 @@
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
-  - Unittesting: 🖐️ used
+  - Unittesting: 🙋 explained
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🔬 researched

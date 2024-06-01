@@ -2,49 +2,49 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js: 🔬 researched
-  - Stateful and stateless servers: 🎓 known
+  - Stateful and stateless servers: 🙋 explained
   - Nonblocking I/O and slocking code: 🎓 known
   - Event loop: phases: 🙋 explained
   - Event loop: microtasks and macrotasks: 🙋 explained
   - Garbage collection: 🎓 known
-  - Node.js LTS schedule: 👂 heard
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
   - CommonJS modules: 🙋 explained
   - ECMAScript modules: 🙋 explained
   - node:module: 🙋 explained
-  - Module `node:module`: 🎓 known
-  - Caching in CJS and ESM: 👂 heard
-  - Modules as singletons: 👂 heard
-  - Contexts and scripts module `node:vm`: 🎓 known
+  - Module `node:module`: 🙋 explained
+  - Caching in CJS and ESM: 🎓 known
+  - Modules as singletons: 🎓 known
+  - Contexts and scripts module `node:vm`: 🙋 explained
   - Dependencies: `npm`, `node_modules`: 🙋 explained
   - Files `package.json`, `package-lock.json`: 🙋 explained
-  - Module-based permissions model: 👂 heard
-  - Isolation with modularity: 🖐: 🖐️ used
+  - Module-based permissions model: 🎓 known
+  - Isolation with modularity: 🙋 explained
   - Dependency injection: 🙋 explained
   - DI containers: 🎓 known
-  - Coupling and cohesion: 👂 heard
-  - Framework agnostic approach: 👂 heard
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 🎓 known
 - Environment
   - Command line arguments: 🙋 explained
   - Node.js CLI: 🙋 explained
-  - Process-based permissions: 👂 heard
+  - Process-based permissions: 🎓 known
   - Graceful shutdown: 👂 heard
   - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 🖐: 🖐️ used
-  - Web Streams API: 🖐: 🖐️ used
-  - Crypto API: 🖐: 🖐️ used
-  - Password hashing with node:crypto.scrypt: 🖐: 🖐️ used
+  - Streams API: 🙋 explained
+  - Web Streams API: 🙋 explained
+  - Crypto API: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐️ used
   - Web Crypto API: 👂 heard
-  - File system API: sync and async: 🖐: 🖐️ used
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively: 👂 heard
   - Worker threads: 🎓 known
   - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici: 🎓 known
-  - async_hooks: 👂 heard
+  - async_hooks: 🎓 known
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
   - Deprecated domain API: 🎓 known
@@ -54,8 +54,8 @@
   - Module `node:child_process`: 🎓 known
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
-  - Generating crypto random UUID: 🖐: 🖐️ used
-  - Module `node:url` vs `new URL`: 🖐: 🖐️ used
+  - Generating crypto random UUID: 🖐️ used
+  - Module `node:url` vs `new URL`: 🖐️ used
   - Module `node:assert`: 👂 heard
   - Internationalization: 👂 heard
   - Blob, File, Buffer, module `node:buffer`: 🎓 known
@@ -76,7 +76,7 @@
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 👂 heard
   - Long polling: 👂 heard
-  - REST: 🙋 explained
+  - REST: 🔬 researched
   - RPC: 🎓 known
   - Routing: 🎓 known
   - DoS: 🎓 known
@@ -85,45 +85,45 @@
   - Path traversall: 👂 heard
   - CSRF: 🎓 known
   - DNS: 🙋 explained
-  - SQL injection: 👂 heard
-  - noDelay: 👂 heard
+  - SQL injection: 🙋 explained
+  - noDelay: 🎓 known
   - keep-alive: 👂 heard
 - Technique and tools
   - Native test runner: 👂 heard
   - Logging: 🎓 known
   - Application configuring: 🎓 known
   - Testing: 🙋 explained
-  - CI/CD: 🙋 explained
-  - Readable: 🖐: 🖐️ used
-  - Writable: 🖐: 🖐️ used
-  - Transform: 🖐: 🖐️ used
+  - CI/CD: 🔬 researched
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🖐️ used
   - Back pressure: 👂 heard
   - Buffer: 🎓 known
   - Console: 🙋 explained
   - Inspector: 👂 heard
 - Data access
-  - Data access layer: 🖐: 🖐️ used
+  - Data access layer: 🖐️ used
   - Repository: 🙋 explained
   - Active record: 👂 heard
   - Query builder: 🎓 known
   - Object-Relational Mapping: 👂 heard
   - CRUD: 🙋 explained
-  - DTO: 👂 heard
+  - DTO: 🙋 explained
 - Error handling and debugging
   - `Error`: 🙋 explained
-  - `error.cause`: 🖐: 🖐️ used
-  - `error.code`: 🖐: 🖐️ used
-  - `error.message`: 🖐: 🖐️ used
-  - `error.stack`: 🖐: 🖐️ used
+  - `error.cause`: 🖐️ used
+  - `error.code`: 🖐️ used
+  - `error.message`: 🖐️ used
+  - `error.stack`: 🖐️ used
   - `Error.captureStackTrace`: 👂 heard
   - How to avoid mixins: 🎓 known
   - Uncaught exceptions: 🎓 known
   - Heap dump: 🎓 known
-  - Debugging tools: 🖐: 🖐️ used
+  - Debugging tools: 🖐️ used
   - Flame graph: 👂 heard
-  - Memory leaks: 👂 heard
-  - Resource leaks: 👂 heard
-  - Data race: 👂 heard
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
+  - Data race: 🎓 known
 - Integrations and bindings
   - Native addons: 👂 heard
   - `C` and `C++` addons: 👂 heard

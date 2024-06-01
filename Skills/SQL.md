@@ -1,13 +1,13 @@
 ## SQL
 
 - Main concepts
-  - DML: 🖐️ used
+  - DML: 🔬 researched
   - selection: 🖐️ used
   - projection: 🖐️ used
   - nested subqueries: 🖐️ used
-  - join: 🖐️ used
-  - left join: 🖐️ used
-  - right join: 🖐️ used
+  - join: 🙋 explained
+  - left join: 🙋 explained
+  - right join: 🙋 explained
   - alias: 🖐️ used
   - direct multiplication of tables: 🖐️ used
   - relational division: 🖐️ used
@@ -18,25 +18,28 @@
   - SHOW DATABASES: 🖐️ used
   - USE: 🖐️ used
   - SOURCE: 🖐️ used
-  - CREATE TABLES: 🖐️ used
+  - CREATE TABLES: 🙋 explained
   - SHOW TABLE: 🖐️ used
-  - DROP TABLE: 🖐️ used
+  - DROP TABLE: 🙋 explained
   - DESCRIBE: 🖐️ used
-  - INSERT: 🖐️ used
-  - UPDATE: 🖐️ used
-  - DELETE: 🖐️ used
-  - SELECT: 🖐️ used
-  - SELECT DISTINCT: 🖐️ used
-  - WHERE: 🖐️ used
-  - GROUP BY: 🖐️ used
-  - ORDER BY: 🖐️ used
-  - HAVING: 🖐️ used
+  - INSERT: 🙋 explained
+  - UPDATE: 🙋 explained
+  - DELETE: 🙋 explained
+  - SELECT: 🙋 explained
+  - SELECT DISTINCT: 🙋 explained
+  - WHERE: 🙋 explained
+  - GROUP BY: 🙋 explained
+  - ORDER BY: 🙋 explained
+  - HAVING: 🙋 explained
   - BETWEEN: 🖐️ used
-  - IN: 🖐️ used
+  - IN: 🙋 explained
   - LIKE: 🖐️ used
-  - JOIN: 🖐️ used
-  - VIEW: 🖐️ used
-  - LIMIT: 🖐️ used
+  - JOIN: 🙋 explained
+  - VIEW: 🙋 explained
+  - LIMIT: 🎓 known
+  - TRIGGERS: 🔬 researched
+  - PROCEDURE: 🔬 researched
+  - FUNCTION: 🔬 researched
 - Aggregate functions
   - APPROX_COUNT_DISTINCT: 🖐️ used
   - AVG: 🖐️ used

@@ -8,36 +8,36 @@
   - `BigInt`: 🎓 known
   - `String`: 🙋 explained
   - `Symbol`: 🎓 known
-  - `Infinity`: 👂 heard
+  - `Infinity`: 🖐️ used
   - `NaN`: 🖐️ used
   - `undefined`: 🙋 explained
   - `null`: 🙋 explained
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
-  - `...spread`: 🖐️ used
-  - `...rest`: 🖐️ used
+  - `...spread`: 🙋 explained
+  - `...rest`: 🙋 explained
   - `typeof`: 🖐️ used
   - Destructuring: 🙋 explained
   - Generators: 🚀 constructed
   - Iterators: 🖐️ used
   - Async generator: 🎓 known
-  - Async iterator: 👂 heard
+  - Async iterator: 🎓 known
   - Chaining: 🚀 constructed
   - Optional chaining: 🙋 explained
   - IIFE: 🎓 known
   - Async IIFE: 👂 heard
-  - `global`: 🖐️ used
-  - `globalThis`: 🖐️ used
+  - `global`: 🙋 explained
+  - `globalThis`: 🙋 explained
   - `window`: 🎓 known
   - Getters and setters: 🙋 explained
   - `__proto__`: 🙋 explained
   - `prototype`: 🙋 explained
-  - Equality operators: 🖐️ used
-  - Logical operators: 🖐️ used
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
   - Logical Assignment: 🖐️ used
   - Bitwise operators: 🖐️ used
-  - Ternary operator: 🖐️ used
-  - `void`: 🖐️ used
+  - Ternary operator: 🙋 explained
+  - `void`: 🙋 explained
   - `yield`: 🖐️ used
   - `await`: 🔬 researched
   - Template literal: 🖐️ used
@@ -62,34 +62,34 @@
   - if: 🖐️ used
   - while: 🖐️ used
   - do..while: 🙋 explained
-  - for: 🖐️ used
+  - for: 🙋 explained
   - for..in: 🙋 explained
   - for..of: 🙋 explained
   - for await: 🙋 explained
-  - throw: 🖐️ used
+  - throw: 🙋 explained
   - break: 🙋 explained
   - continue: 🙋 explained
-  - import: 🖐️ used
-  - export: 🖐️ used
-  - label: 🎓 known
+  - import: 🙋 explained
+  - export: 🙋 explained
+  - label: 🙋 explained
   - try..catch: 🙋 explained
   - switch: 🙋 explained
   - class: 🙋 explained
   - new Error: 🙋 explained
-  - with: 🎓 known
+  - with: 🙋 explained
 - Functions
   - Arrow function: 🔬 researched
   - Async function: 🙋 explained
-  - Function declaration: 🖐: 🖐️ used
-  - Function expression: 🖐: 🖐️ used
-  - Default parameters: 🖐: 🖐️ used
+  - Function declaration: 🙋 explained
+  - Function expression: 🙋 explained
+  - Default parameters: 🙋 explained
   - Functional object: 🎓 known
-  - `Function.prototype.call`: 🎓 known
-  - `Function.prototype.bind`: 🎓 known
-  - `Function.prototype.apply`: 🎓 known
+  - `Function.prototype.call`: 🙋 explained
+  - `Function.prototype.bind`: 🙋 explained
+  - `Function.prototype.apply`: 🙋 explained
   - `return`: 🔬 researched
 - Data structures
-  - `Array`: 🖐: 🖐️ used
+  - `Array`: 🖐️ used
   - `Map`: 🔬 researched
   - `Set`: 🙋 explained
   - `WeakMap`: 🎓 known
@@ -99,8 +99,8 @@
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
-  - `RegExp`c
-  - `Date`: 🖐: 🖐️ used
+  - `RegExp`: 🔬 researched
+  - `Date`: 🖐️ used
   - `Math`: 🎓 known
   - `Reflect`: 🎓 known
   - `Error`: 🙋 explained
@@ -110,7 +110,7 @@
   - `FinalizationRegistry`: 🎓 known
   - `Intl`: 🎓 known
   - `Promise`: 🙋 explained
-  - `console`: 🖐: 🖐️ used
+  - `console`: 🖐️ used
   - Timers: 🎓 known
 - Infrastructure
   - V8: 🙋 explained
